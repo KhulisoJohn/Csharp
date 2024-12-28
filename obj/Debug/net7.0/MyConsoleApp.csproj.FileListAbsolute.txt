@@ -1,0 +1,14 @@
+/home/khulysojohn/development/my-Csharp/bin/Debug/net7.0/MyConsoleApp
+/home/khulysojohn/development/my-Csharp/bin/Debug/net7.0/MyConsoleApp.deps.json
+/home/khulysojohn/development/my-Csharp/bin/Debug/net7.0/MyConsoleApp.runtimeconfig.json
+/home/khulysojohn/development/my-Csharp/bin/Debug/net7.0/MyConsoleApp.dll
+/home/khulysojohn/development/my-Csharp/bin/Debug/net7.0/MyConsoleApp.pdb
+/home/khulysojohn/development/my-Csharp/obj/Debug/net7.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-Csharp/obj/Debug/net7.0/MyConsoleApp.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-Csharp/obj/Debug/net7.0/MyConsoleApp.AssemblyInfo.cs
+/home/khulysojohn/development/my-Csharp/obj/Debug/net7.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-Csharp/obj/Debug/net7.0/MyConsoleApp.dll
+/home/khulysojohn/development/my-Csharp/obj/Debug/net7.0/refint/MyConsoleApp.dll
+/home/khulysojohn/development/my-Csharp/obj/Debug/net7.0/MyConsoleApp.pdb
+/home/khulysojohn/development/my-Csharp/obj/Debug/net7.0/MyConsoleApp.genruntimeconfig.cache
+/home/khulysojohn/development/my-Csharp/obj/Debug/net7.0/ref/MyConsoleApp.dll
