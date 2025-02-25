@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/khulysojohn/development/my-Csharp/MyConsoleApp.csproj": {}
+    "/home/khulysojohn/development/my-work/my-Csharp/MyConsoleApp.csproj": {}
   },
   "projects": {
-    "/home/khulysojohn/development/my-Csharp/MyConsoleApp.csproj": {
+    "/home/khulysojohn/development/my-work/my-Csharp/MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/khulysojohn/development/my-Csharp/MyConsoleApp.csproj",
+        "projectUniqueName": "/home/khulysojohn/development/my-work/my-Csharp/MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "/home/khulysojohn/development/my-Csharp/MyConsoleApp.csproj",
+        "projectPath": "/home/khulysojohn/development/my-work/my-Csharp/MyConsoleApp.csproj",
         "packagesPath": "/home/khulysojohn/.nuget/packages/",
-        "outputPath": "/home/khulysojohn/development/my-Csharp/obj/",
+        "outputPath": "/home/khulysojohn/development/my-work/my-Csharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/khulysojohn/.nuget/NuGet/NuGet.Config"
