@@ -1,0 +1,14 @@
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/MyDataType.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/MyDataType.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/MyDataType.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/MyDataType.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/bin/Debug/net7.0/MyDataType
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/bin/Debug/net7.0/MyDataType.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/bin/Debug/net7.0/MyDataType.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/bin/Debug/net7.0/MyDataType.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/bin/Debug/net7.0/MyDataType.pdb
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/MyDataType.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/refint/MyDataType.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/MyDataType.pdb
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/MyDataType.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/ref/MyDataType.dll
