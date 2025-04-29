@@ -6,7 +6,7 @@ namespace EscapeSequence {
         static  void Main(string[] args){
             // add newline  and tap
             Console.WriteLine("Hello\nWorld");
-            Console.WriteLine("Hello\tWorld");
+            Console.WriteLine("Hello\tWorld");dotdotnet run
 
             // add double qoutes arround the string
             Console.WriteLine("Hello \"World\"!");
