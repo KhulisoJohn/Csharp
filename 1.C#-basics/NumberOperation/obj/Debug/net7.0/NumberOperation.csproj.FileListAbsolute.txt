@@ -1,0 +1,14 @@
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/bin/Debug/net7.0/NumberOperation
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/bin/Debug/net7.0/NumberOperation.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/bin/Debug/net7.0/NumberOperation.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/bin/Debug/net7.0/NumberOperation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/bin/Debug/net7.0/NumberOperation.pdb
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/NumberOperation.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/NumberOperation.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/NumberOperation.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/NumberOperation.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/NumberOperation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/refint/NumberOperation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/NumberOperation.pdb
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/NumberOperation.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/ref/NumberOperation.dll
