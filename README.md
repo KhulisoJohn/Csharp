@@ -6,52 +6,52 @@ This repository serves as a structured and detailed guide to C#, covering all es
 
 ```
 Csharp-Repository/
-│-- Chapter 1: Introduction to C#
-│   ├── Overview of C#
+
+│-- Chapter 1: Basic Syntax and Data Types
 │   ├── Setting up the development environment
 │   ├── Writing and running your first C# program
-│
-│-- Chapter 2: Basic Syntax and Data Types
 │   ├── Variables and constants
 │   ├── Data types in C#
 │   ├── Operators and expressions
+   
+
 │
-│-- Chapter 3: Control Flow Statements
+│-- Chapter 2: Control Flow Statements
 │   ├── Conditional statements (if, switch)
 │   ├── Looping constructs (for, while, do-while, foreach)
 │
-│-- Chapter 4: Methods and Functions
+│-- Chapter 3: Methods and Functions
 │   ├── Defining and calling methods
 │   ├── Method parameters and return types
 │   ├── Recursion in C#
 │
-│-- Chapter 5: Object-Oriented Programming (OOP)
+│-- Chapter 4: Object-Oriented Programming (OOP)
 │   ├── Classes and objects
 │   ├── Inheritance and polymorphism
 │   ├── Encapsulation and abstraction
 │
-│-- Chapter 6: Exception Handling
+│-- Chapter 5: Exception Handling
 │   ├── Understanding exceptions
 │   ├── Using try, catch, finally
 │   ├── Custom exceptions
 │
-│-- Chapter 7: Collections and Generics
+│-- Chapter 6: Collections and Generics
 │   ├── Arrays, Lists, and Dictionaries
 │   ├── Using generics in C#
 │
-│-- Chapter 8: File Handling and I/O Operations
+│-- Chapter 7: File Handling and I/O Operations
 │   ├── Reading and writing files
 │   ├── Working with streams
 │
-│-- Chapter 9: LINQ (Language Integrated Query)
+│-- Chapter 8: LINQ (Language Integrated Query)
 │   ├── Basics of LINQ
 │   ├── Querying collections and databases
 │
-│-- Chapter 10: Asynchronous Programming
+│-- Chapter 9: Asynchronous Programming
 │   ├── async and await keywords
 │   ├── Task-based programming
 │
-│-- Chapter 11: .NET Core and Framework
+│-- Chapter 10: .NET Core and Framework
 │   ├── Overview of .NET
 │   ├── Differences between .NET Framework and .NET Core
 ```
@@ -60,7 +60,7 @@ Csharp-Repository/
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/csharp-repository.git
+   git clone https://github.com/KhulisoJohn/my-Csharp.git
    ```
 2. Navigate to the desired chapter and open the respective `.cs` files.
 3. Follow along with the provided code examples and explanations.
