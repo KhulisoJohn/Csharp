@@ -1,0 +1,14 @@
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/bin/Debug/net7.0/StringConcatenation
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/bin/Debug/net7.0/StringConcatenation.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/bin/Debug/net7.0/StringConcatenation.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/bin/Debug/net7.0/StringConcatenation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/bin/Debug/net7.0/StringConcatenation.pdb
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/StringConcatenation.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/StringConcatenation.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/StringConcatenation.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/StringConcatenation.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/StringConcatenation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/refint/StringConcatenation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/StringConcatenation.pdb
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/StringConcatenation.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/ref/StringConcatenation.dll
