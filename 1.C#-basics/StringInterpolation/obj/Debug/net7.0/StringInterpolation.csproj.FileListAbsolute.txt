@@ -1,0 +1,14 @@
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/StringInterpolation.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/StringInterpolation.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/StringInterpolation.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/bin/Debug/net7.0/StringInterpolation
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/bin/Debug/net7.0/StringInterpolation.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/bin/Debug/net7.0/StringInterpolation.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/bin/Debug/net7.0/StringInterpolation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/bin/Debug/net7.0/StringInterpolation.pdb
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/StringInterpolation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/refint/StringInterpolation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/StringInterpolation.pdb
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/StringInterpolation.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/ref/StringInterpolation.dll
