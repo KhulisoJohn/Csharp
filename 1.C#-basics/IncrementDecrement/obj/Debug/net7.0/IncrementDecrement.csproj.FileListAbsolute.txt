@@ -1,0 +1,14 @@
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/bin/Debug/net7.0/IncrementDecrement
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/bin/Debug/net7.0/IncrementDecrement.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/bin/Debug/net7.0/IncrementDecrement.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/bin/Debug/net7.0/IncrementDecrement.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/bin/Debug/net7.0/IncrementDecrement.pdb
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/IncrementDecrement.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/IncrementDecrement.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/IncrementDecrement.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/IncrementDecrement.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/IncrementDecrement.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/refint/IncrementDecrement.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/IncrementDecrement.pdb
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/IncrementDecrement.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/ref/IncrementDecrement.dll
