@@ -25,8 +25,8 @@ namespace MathOperation {
 
             //Write a code to determine the reminder after int divition
 
-            Console.WriteLine($"Modulus of 200 / 5: {200 / 5}");
-            Console.WriteLine($"Modulus of 7 / 5: {7 /5}");
+            Console.WriteLine($"Modulus of 200 / 5: {200 % 5}");
+            Console.WriteLine($"Modulus of 7 / 5: {7 % 5}");
 
             //Write a code to exercise C# order of operation
             int value1 = 3 + 4 * 5;
