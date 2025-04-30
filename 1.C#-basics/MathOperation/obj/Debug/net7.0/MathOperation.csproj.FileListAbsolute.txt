@@ -1,0 +1,14 @@
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/bin/Debug/net7.0/MathOperation
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/bin/Debug/net7.0/MathOperation.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/bin/Debug/net7.0/MathOperation.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/bin/Debug/net7.0/MathOperation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/bin/Debug/net7.0/MathOperation.pdb
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/MathOperation.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/MathOperation.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/MathOperation.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/MathOperation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/refint/MathOperation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/MathOperation.pdb
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/MathOperation.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/ref/MathOperation.dll
