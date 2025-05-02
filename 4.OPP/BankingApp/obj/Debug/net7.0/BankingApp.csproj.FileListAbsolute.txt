@@ -1,0 +1,14 @@
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/BankingApp.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/BankingApp.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/BankingApp.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/bin/Debug/net7.0/BankingApp
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/bin/Debug/net7.0/BankingApp.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/bin/Debug/net7.0/BankingApp.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/bin/Debug/net7.0/BankingApp.dll
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/bin/Debug/net7.0/BankingApp.pdb
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/BankingApp.dll
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/refint/BankingApp.dll
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/BankingApp.pdb
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/BankingApp.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/ref/BankingApp.dll
