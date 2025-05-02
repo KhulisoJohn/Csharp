@@ -26,7 +26,7 @@ namespace InheritancePolymorphism
         }
     }
 
-    class program
+    class Program
     {
         static void Main(string[] args)
         {
