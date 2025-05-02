@@ -1,0 +1,14 @@
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/bin/Debug/net7.0/ConditionLoops
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/bin/Debug/net7.0/ConditionLoops.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/bin/Debug/net7.0/ConditionLoops.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/bin/Debug/net7.0/ConditionLoops.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/bin/Debug/net7.0/ConditionLoops.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/ConditionLoops.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/ConditionLoops.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/ConditionLoops.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/ConditionLoops.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/ConditionLoops.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/refint/ConditionLoops.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/ConditionLoops.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/ConditionLoops.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/ref/ConditionLoops.dll
