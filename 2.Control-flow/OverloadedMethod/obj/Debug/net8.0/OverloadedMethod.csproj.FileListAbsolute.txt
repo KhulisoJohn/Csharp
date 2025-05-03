@@ -1,0 +1,15 @@
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/obj/Debug/net8.0/OverloadedMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/obj/Debug/net8.0/OverloadedMethod.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/obj/Debug/net8.0/OverloadedMethod.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/obj/Debug/net8.0/OverloadedMethod.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/obj/Debug/net8.0/OverloadedMethod.sourcelink.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/bin/Debug/net8.0/OverloadedMethod
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/bin/Debug/net8.0/OverloadedMethod.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/bin/Debug/net8.0/OverloadedMethod.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/bin/Debug/net8.0/OverloadedMethod.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/bin/Debug/net8.0/OverloadedMethod.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/obj/Debug/net8.0/OverloadedMethod.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/obj/Debug/net8.0/refint/OverloadedMethod.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/obj/Debug/net8.0/OverloadedMethod.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/obj/Debug/net8.0/OverloadedMethod.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/OverloadedMethod/obj/Debug/net8.0/ref/OverloadedMethod.dll
