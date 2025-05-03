@@ -1,0 +1,15 @@
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/bin/Debug/net8.0/GenerateRandom
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/bin/Debug/net8.0/GenerateRandom.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/bin/Debug/net8.0/GenerateRandom.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/bin/Debug/net8.0/GenerateRandom.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/bin/Debug/net8.0/GenerateRandom.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/obj/Debug/net8.0/GenerateRandom.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/obj/Debug/net8.0/GenerateRandom.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/obj/Debug/net8.0/GenerateRandom.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/obj/Debug/net8.0/GenerateRandom.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/obj/Debug/net8.0/GenerateRandom.sourcelink.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/obj/Debug/net8.0/GenerateRandom.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/obj/Debug/net8.0/refint/GenerateRandom.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/obj/Debug/net8.0/GenerateRandom.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/obj/Debug/net8.0/GenerateRandom.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/GenerateRandom/obj/Debug/net8.0/ref/GenerateRandom.dll

@@ -1,0 +1,15 @@
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/obj/Debug/net8.0/LargerNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/obj/Debug/net8.0/LargerNumber.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/obj/Debug/net8.0/LargerNumber.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/obj/Debug/net8.0/LargerNumber.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/obj/Debug/net8.0/LargerNumber.sourcelink.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/bin/Debug/net8.0/LargerNumber
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/bin/Debug/net8.0/LargerNumber.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/bin/Debug/net8.0/LargerNumber.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/bin/Debug/net8.0/LargerNumber.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/bin/Debug/net8.0/LargerNumber.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/obj/Debug/net8.0/LargerNumber.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/obj/Debug/net8.0/refint/LargerNumber.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/obj/Debug/net8.0/LargerNumber.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/obj/Debug/net8.0/LargerNumber.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/obj/Debug/net8.0/ref/LargerNumber.dll
