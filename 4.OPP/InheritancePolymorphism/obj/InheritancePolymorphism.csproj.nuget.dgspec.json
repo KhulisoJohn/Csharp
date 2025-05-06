@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/khulysojohn/development/my-work/my-Csharp/3.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj": {}
+    "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj": {}
   },
   "projects": {
-    "/home/khulysojohn/development/my-work/my-Csharp/3.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj": {
+    "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/khulysojohn/development/my-work/my-Csharp/3.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
+        "projectUniqueName": "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
         "projectName": "InheritancePolymorphism",
-        "projectPath": "/home/khulysojohn/development/my-work/my-Csharp/3.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
+        "projectPath": "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
         "packagesPath": "/home/khulysojohn/.nuget/packages/",
-        "outputPath": "/home/khulysojohn/development/my-work/my-Csharp/3.OPP/InheritancePolymorphism/obj/",
+        "outputPath": "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/InheritancePolymorphism/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/khulysojohn/.nuget/NuGet/NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -48,12 +53,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/RuntimeIdentifierGraph.json"
         }
       }
     }

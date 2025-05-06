@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyHelloWorld
 build_property.ProjectDir = /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyHelloWorld/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

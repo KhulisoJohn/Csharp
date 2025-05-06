@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VDxF2JMwPHEWykEu9vO3CVAtevuxYrOjcbac8pEo2IBuokJry4fcZmSwNcUo0d9aghNQ+OA9F0zMqZgQHURagg==",
+  "dgSpecHash": "S6EOP3hbhiI=",
   "success": true,
   "projectFilePath": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/IncrementDecrement.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/khulysojohn/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/khulysojohn/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/khulysojohn/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

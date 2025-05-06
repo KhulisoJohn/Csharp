@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+M/HybAGXl+yQIL3LCpTj0eSYG4KN3vR6YV4SGEjf43lBuHVmp3hnukma2dSUdnpT8hPe8FeMFRAS3vvcmtVFw==",
+  "dgSpecHash": "jziuVvdBmb8=",
   "success": true,
-  "projectFilePath": "/home/khulysojohn/development/my-work/my-Csharp/3.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
+  "expectedPackageFiles": [
+    "/home/khulysojohn/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/khulysojohn/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/khulysojohn/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
