@@ -1,0 +1,15 @@
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/obj/Debug/net8.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/obj/Debug/net8.0/DiceGame.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/obj/Debug/net8.0/DiceGame.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/obj/Debug/net8.0/DiceGame.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/obj/Debug/net8.0/DiceGame.sourcelink.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/bin/Debug/net8.0/DiceGame
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/bin/Debug/net8.0/DiceGame.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/bin/Debug/net8.0/DiceGame.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/bin/Debug/net8.0/DiceGame.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/bin/Debug/net8.0/DiceGame.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/obj/Debug/net8.0/DiceGame.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/obj/Debug/net8.0/refint/DiceGame.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/obj/Debug/net8.0/DiceGame.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/obj/Debug/net8.0/DiceGame.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/DiceGame/obj/Debug/net8.0/ref/DiceGame.dll
