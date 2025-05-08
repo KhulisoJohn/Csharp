@@ -12,3 +12,4 @@
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/EscapeSequence/obj/Debug/net7.0/EscapeSequence.pdb
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/EscapeSequence/obj/Debug/net7.0/EscapeSequence.genruntimeconfig.cache
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/EscapeSequence/obj/Debug/net7.0/ref/EscapeSequence.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/EscapeSequence/obj/Debug/net7.0/EscapeSequence.sourcelink.json

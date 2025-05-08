@@ -12,3 +12,4 @@
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/NumberOperation.pdb
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/NumberOperation.genruntimeconfig.cache
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/ref/NumberOperation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/Debug/net7.0/NumberOperation.sourcelink.json

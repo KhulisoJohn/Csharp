@@ -12,3 +12,4 @@
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/MyDataType.pdb
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/MyDataType.genruntimeconfig.cache
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/ref/MyDataType.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyDataType/obj/Debug/net7.0/MyDataType.sourcelink.json

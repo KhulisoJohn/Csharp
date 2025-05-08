@@ -12,3 +12,4 @@
 /home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/BankingApp.pdb
 /home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/BankingApp.genruntimeconfig.cache
 /home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/ref/BankingApp.dll
+/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/Debug/net7.0/BankingApp.sourcelink.json

@@ -12,3 +12,4 @@
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/StringInterpolation.pdb
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/StringInterpolation.genruntimeconfig.cache
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/ref/StringInterpolation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/Debug/net7.0/StringInterpolation.sourcelink.json

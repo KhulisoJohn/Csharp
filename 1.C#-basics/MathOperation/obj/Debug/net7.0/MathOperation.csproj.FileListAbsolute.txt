@@ -12,3 +12,4 @@
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/MathOperation.pdb
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/MathOperation.genruntimeconfig.cache
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/ref/MathOperation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/Debug/net7.0/MathOperation.sourcelink.json

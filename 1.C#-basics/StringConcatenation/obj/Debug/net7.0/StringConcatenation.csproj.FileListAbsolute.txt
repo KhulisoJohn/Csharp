@@ -12,3 +12,4 @@
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/StringConcatenation.pdb
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/StringConcatenation.genruntimeconfig.cache
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/ref/StringConcatenation.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringConcatenation/obj/Debug/net7.0/StringConcatenation.sourcelink.json

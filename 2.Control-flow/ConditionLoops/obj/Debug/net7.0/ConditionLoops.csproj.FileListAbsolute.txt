@@ -12,3 +12,4 @@
 /home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/ConditionLoops.pdb
 /home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/ConditionLoops.genruntimeconfig.cache
 /home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/ref/ConditionLoops.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/Debug/net7.0/ConditionLoops.sourcelink.json

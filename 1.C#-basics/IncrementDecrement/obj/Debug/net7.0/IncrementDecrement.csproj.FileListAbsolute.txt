@@ -12,3 +12,4 @@
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/IncrementDecrement.pdb
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/IncrementDecrement.genruntimeconfig.cache
 /home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/ref/IncrementDecrement.dll
+/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/IncrementDecrement/obj/Debug/net7.0/IncrementDecrement.sourcelink.json
