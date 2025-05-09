@@ -1,0 +1,15 @@
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/obj/Debug/net8.0/NameConvesation.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/obj/Debug/net8.0/NameConvesation.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/obj/Debug/net8.0/NameConvesation.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/obj/Debug/net8.0/NameConvesation.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/obj/Debug/net8.0/NameConvesation.sourcelink.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/bin/Debug/net8.0/NameConvesation
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/bin/Debug/net8.0/NameConvesation.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/bin/Debug/net8.0/NameConvesation.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/bin/Debug/net8.0/NameConvesation.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/bin/Debug/net8.0/NameConvesation.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/obj/Debug/net8.0/NameConvesation.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/obj/Debug/net8.0/refint/NameConvesation.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/obj/Debug/net8.0/NameConvesation.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/obj/Debug/net8.0/NameConvesation.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/NameConvesation/obj/Debug/net8.0/ref/NameConvesation.dll

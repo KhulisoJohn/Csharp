@@ -1,0 +1,15 @@
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/bin/Debug/net8.0/Whitespace
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/bin/Debug/net8.0/Whitespace.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/bin/Debug/net8.0/Whitespace.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/bin/Debug/net8.0/Whitespace.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/bin/Debug/net8.0/Whitespace.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/obj/Debug/net8.0/Whitespace.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/obj/Debug/net8.0/Whitespace.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/obj/Debug/net8.0/Whitespace.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/obj/Debug/net8.0/Whitespace.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/obj/Debug/net8.0/Whitespace.sourcelink.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/obj/Debug/net8.0/Whitespace.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/obj/Debug/net8.0/refint/Whitespace.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/obj/Debug/net8.0/Whitespace.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/obj/Debug/net8.0/Whitespace.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Whitespace/obj/Debug/net8.0/ref/Whitespace.dll
