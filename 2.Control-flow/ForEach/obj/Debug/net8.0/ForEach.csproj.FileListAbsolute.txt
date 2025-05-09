@@ -1,0 +1,15 @@
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/bin/Debug/net8.0/ForEach
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/bin/Debug/net8.0/ForEach.deps.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/bin/Debug/net8.0/ForEach.runtimeconfig.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/bin/Debug/net8.0/ForEach.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/bin/Debug/net8.0/ForEach.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/obj/Debug/net8.0/ForEach.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/obj/Debug/net8.0/ForEach.AssemblyInfoInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/obj/Debug/net8.0/ForEach.AssemblyInfo.cs
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/obj/Debug/net8.0/ForEach.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/obj/Debug/net8.0/ForEach.sourcelink.json
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/obj/Debug/net8.0/ForEach.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/obj/Debug/net8.0/refint/ForEach.dll
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/obj/Debug/net8.0/ForEach.pdb
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/obj/Debug/net8.0/ForEach.genruntimeconfig.cache
+/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ForEach/obj/Debug/net8.0/ref/ForEach.dll
