@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EfRelationship")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7983536330143f7c3ffb2130bb11023a25189b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90a4e53e5a59e8cc516894a704e40599c91d0407")]
 [assembly: System.Reflection.AssemblyProductAttribute("EfRelationship")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EfRelationship")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
