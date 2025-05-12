@@ -8,8 +8,8 @@ namespace IncrementDecrement {
 
             //Write code to increment value 
             int value = 0;
-            value = value + 5;
             value += 5;
+           // value += 5;
             value++;
             Console.WriteLine(value);
 

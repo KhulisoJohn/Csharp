@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EscapeSequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66e815314379589c97050608c7b3dcc1637f30ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b767b4c29c8270aa430f98e8e9c7121a5b56804")]
 [assembly: System.Reflection.AssemblyProductAttribute("EscapeSequence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EscapeSequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

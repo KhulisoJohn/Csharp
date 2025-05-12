@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace EscapeSequence {
+﻿namespace EscapeSequence {
 
      class Program {
         static  void Main(string[] args){
             // add newline  and tap
             Console.WriteLine("Hello\nWorld");
-            Console.WriteLine("Hello\tWorld");dotdotnet run
+            Console.WriteLine("Hello\tWorld");
 
             // add double qoutes arround the string
             Console.WriteLine("Hello \"World\"!");
