@@ -10,7 +10,7 @@ builder.Services.AddControllersWithViews();
 
 //Add connectingstring
 //var builder = WebApplication.CreateBuilder(args);
-var connectionString = builder.Configuration.GetConnectionString("EfRelationship");
+var connectionString = Environment.GetEnvironmentVariable("EF_CONNECTION_STRING");
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
