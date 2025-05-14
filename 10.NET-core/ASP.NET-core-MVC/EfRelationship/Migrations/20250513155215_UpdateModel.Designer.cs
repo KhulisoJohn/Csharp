@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EfRelationship.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250511204616_CreateCourseBookTable")]
-    partial class CreateCourseBookTable
+    [Migration("20250513155215_UpdateModel")]
+    partial class UpdateModel
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -36,7 +36,7 @@ namespace EfRelationship.Migrations
 
                     b.HasIndex("StudentsStudentId");
 
-                    b.ToTable("CourseStudent");
+                    b.ToTable("StudentCourse", (string)null);
                 });
 
             modelBuilder.Entity("EfRelationship.Models.Author", b =>

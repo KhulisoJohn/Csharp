@@ -5,7 +5,7 @@
 namespace EfRelationship.Migrations
 {
     /// <inheritdoc />
-    public partial class AddUserProfileAndAuthorTables : Migration
+    public partial class UpdateModel : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -60,7 +60,8 @@ namespace EfRelationship.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Title = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Genre = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    AuthorId = table.Column<int>(type: "int", nullable: false)
+                    AuthorId = table.Column<int>(type: "int", nullable: false),
+                    CourseId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -71,10 +72,15 @@ namespace EfRelationship.Migrations
                         principalTable: "Authors",
                         principalColumn: "AuthorId",
                         onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_Books_Courses_CourseId",
+                        column: x => x.CourseId,
+                        principalTable: "Courses",
+                        principalColumn: "CourseId");
                 });
 
             migrationBuilder.CreateTable(
-                name: "CourseStudent",
+                name: "StudentCourse",
                 columns: table => new
                 {
                     CoursesCourseId = table.Column<int>(type: "int", nullable: false),
@@ -82,15 +88,15 @@ namespace EfRelationship.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_CourseStudent", x => new { x.CoursesCourseId, x.StudentsStudentId });
+                    table.PrimaryKey("PK_StudentCourse", x => new { x.CoursesCourseId, x.StudentsStudentId });
                     table.ForeignKey(
-                        name: "FK_CourseStudent_Courses_CoursesCourseId",
+                        name: "FK_StudentCourse_Courses_CoursesCourseId",
                         column: x => x.CoursesCourseId,
                         principalTable: "Courses",
                         principalColumn: "CourseId",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_CourseStudent_Students_StudentsStudentId",
+                        name: "FK_StudentCourse_Students_StudentsStudentId",
                         column: x => x.StudentsStudentId,
                         principalTable: "Students",
                         principalColumn: "StudentId",
@@ -124,8 +130,13 @@ namespace EfRelationship.Migrations
                 column: "AuthorId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_CourseStudent_StudentsStudentId",
-                table: "CourseStudent",
+                name: "IX_Books_CourseId",
+                table: "Books",
+                column: "CourseId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_StudentCourse_StudentsStudentId",
+                table: "StudentCourse",
                 column: "StudentsStudentId");
 
             migrationBuilder.CreateIndex(
@@ -142,7 +153,7 @@ namespace EfRelationship.Migrations
                 name: "Books");
 
             migrationBuilder.DropTable(
-                name: "CourseStudent");
+                name: "StudentCourse");
 
             migrationBuilder.DropTable(
                 name: "UserProfiles");

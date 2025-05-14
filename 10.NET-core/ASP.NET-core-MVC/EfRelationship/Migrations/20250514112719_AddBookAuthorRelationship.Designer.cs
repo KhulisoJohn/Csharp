@@ -11,15 +11,15 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EfRelationship.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250508155422_AddUserProfileAndAuthorTables")]
-    partial class AddUserProfileAndAuthorTables
+    [Migration("20250514112719_AddBookAuthorRelationship")]
+    partial class AddBookAuthorRelationship
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "9.0.4")
+                .HasAnnotation("ProductVersion", "9.0.5")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -36,7 +36,7 @@ namespace EfRelationship.Migrations
 
                     b.HasIndex("StudentsStudentId");
 
-                    b.ToTable("CourseStudent");
+                    b.ToTable("StudentCourse", (string)null);
                 });
 
             modelBuilder.Entity("EfRelationship.Models.Author", b =>
@@ -51,7 +51,6 @@ namespace EfRelationship.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("AuthorId");
@@ -70,6 +69,9 @@ namespace EfRelationship.Migrations
                     b.Property<int>("AuthorId")
                         .HasColumnType("int");
 
+                    b.Property<int?>("CourseId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Genre")
                         .HasColumnType("nvarchar(max)");
 
@@ -80,6 +82,8 @@ namespace EfRelationship.Migrations
                     b.HasKey("BookId");
 
                     b.HasIndex("AuthorId");
+
+                    b.HasIndex("CourseId");
 
                     b.ToTable("Books");
                 });
@@ -173,6 +177,10 @@ namespace EfRelationship.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("EfRelationship.Models.Course", null)
+                        .WithMany("Books")
+                        .HasForeignKey("CourseId");
+
                     b.Navigation("Author");
                 });
 
@@ -188,6 +196,11 @@ namespace EfRelationship.Migrations
                 });
 
             modelBuilder.Entity("EfRelationship.Models.Author", b =>
+                {
+                    b.Navigation("Books");
+                });
+
+            modelBuilder.Entity("EfRelationship.Models.Course", b =>
                 {
                     b.Navigation("Books");
                 });

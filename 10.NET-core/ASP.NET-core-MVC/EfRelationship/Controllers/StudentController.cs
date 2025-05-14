@@ -118,7 +118,7 @@ namespace EfRelationship.Controllers // Fixed: Controller ➤ Controllers
         public async Task<IActionResult> DeleteConfirmed(int id) // Fixed: DeleteComfirmed ➤ DeleteConfirmed
         {
             var student = await _context.Students.FindAsync(id); // Fixed: _context.Student ➤ _context.Students
-            _context.Students.Remove(student);
+            _context.Students.Remove(student!);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
