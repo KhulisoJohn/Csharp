@@ -1,0 +1,27 @@
+@model EfRelationship.Models.Author
+
+@{
+    ViewData["Title"] = "Author Details";
+}
+
+<h2>Author Details</h2>
+
+<div>
+    <h4>Books by this Author</h4>
+    <ul>
+        @if (Model.Books != null && Model.Books.Any())
+        {
+            foreach (var book in Model.Books)
+            {
+                <li>@book.Title (@book.Genre)</li>
+            }
+        }
+        else
+        {
+            <li>No books available.</li>
+        }
+    </ul>
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.AuthorId" class="btn btn-warning">Edit</a>
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

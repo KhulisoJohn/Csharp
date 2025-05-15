@@ -1,0 +1,47 @@
+@model IEnumerable<EfRelationship.Models.Author>
+
+@{
+    ViewData["Title"] = "Authors";
+}
+
+<h2>Authors</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Bio</th>
+            <th>Books</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var author in Model)
+        {
+            <tr>
+                <td>@author.Name</td>
+                <td>@author.Bio</td>
+                <td>
+                    @if (author.Books != null && author.Books.Any()) {
+                        <ul>
+                            @foreach (var book in author.Books) {
+                                <li>@book.Title</li>
+                            }
+                        </ul>
+                    } else {
+                        <span>No books</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@author.AuthorId">Details</a> |
+                    <a asp-action="Edit" asp-route-id="@author.AuthorId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@author.AuthorId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

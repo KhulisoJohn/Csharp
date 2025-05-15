@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/khulysojohn/development/my-work/my-Csharp/10.NET-core/ASP.NET-core-MVC/EfRelationship
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/khulysojohn/development/my-work/my-Csharp/10.NET-core/ASP.NET-core-MVC/EfRelationship/Views/Author/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/khulysojohn/development/my-work/my-Csharp/10.NET-core/ASP.NET-core-MVC/EfRelationship/Views/Author/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/khulysojohn/development/my-work/my-Csharp/10.NET-core/ASP.NET-core-MVC/EfRelationship/Views/Author/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/khulysojohn/development/my-work/my-Csharp/10.NET-core/ASP.NET-core-MVC/EfRelationship/Views/Author/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/khulysojohn/development/my-work/my-Csharp/10.NET-core/ASP.NET-core-MVC/EfRelationship/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/khulysojohn/development/my-work/my-Csharp/10.NET-core/ASP.NET-core-MVC/EfRelationship/Views/Book/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
