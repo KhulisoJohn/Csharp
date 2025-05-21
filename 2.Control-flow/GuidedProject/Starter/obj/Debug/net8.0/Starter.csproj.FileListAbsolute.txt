@@ -1,0 +1,15 @@
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
