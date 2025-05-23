@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0MbMhtAcedUPs0GY2p3s+oU1d8FahZB+8hm+VzeNq9E=",
+  "Source": "RoutingApiApp",
+  "BasePath": "_content/RoutingApiApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

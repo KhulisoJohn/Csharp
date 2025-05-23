@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentPortal", "StudentPortal\StudentPortal.csproj", "{567AFBFF-599F-B5D5-DE40-5AEF45469E72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingApiApp", "..\Training\my-Csharp\10.ASP.NET-Core\RoutingApp\RoutingApiApp\RoutingApiApp.csproj", "{B0C781F5-C88B-43BA-BBAA-01207E237B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567AFBFF-599F-B5D5-DE40-5AEF45469E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567AFBFF-599F-B5D5-DE40-5AEF45469E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567AFBFF-599F-B5D5-DE40-5AEF45469E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567AFBFF-599F-B5D5-DE40-5AEF45469E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C781F5-C88B-43BA-BBAA-01207E237B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C781F5-C88B-43BA-BBAA-01207E237B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C781F5-C88B-43BA-BBAA-01207E237B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C781F5-C88B-43BA-BBAA-01207E237B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65FDE5BE-7691-48F1-8CBE-0887F9CE86A9}
+	EndGlobalSection
+EndGlobal
