@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/LargerNumber.csproj",
+      "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/LargerNumber/LargerNumber.csproj",
       "projectName": "LargerNumber",
-      "projectPath": "/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/LargerNumber.csproj",
+      "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/LargerNumber/LargerNumber.csproj",
       "packagesPath": "/home/khulysojohn/.nuget/packages/",
-      "outputPath": "/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/LargerNumber/obj/",
+      "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/LargerNumber/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/khulysojohn/.nuget/NuGet/NuGet.Config"

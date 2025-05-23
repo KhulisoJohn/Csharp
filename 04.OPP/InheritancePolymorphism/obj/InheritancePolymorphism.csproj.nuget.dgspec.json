@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj": {}
+    "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj": {}
   },
   "projects": {
-    "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj": {
+    "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
+        "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
         "projectName": "InheritancePolymorphism",
-        "projectPath": "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
+        "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
         "packagesPath": "/home/khulysojohn/.nuget/packages/",
-        "outputPath": "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/InheritancePolymorphism/obj/",
+        "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/InheritancePolymorphism/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/khulysojohn/.nuget/NuGet/NuGet.Config"

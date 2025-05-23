@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/BankingApp.csproj": {}
+    "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/BankingApp/BankingApp.csproj": {}
   },
   "projects": {
-    "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/BankingApp.csproj": {
+    "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/BankingApp/BankingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/BankingApp.csproj",
+        "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/BankingApp/BankingApp.csproj",
         "projectName": "BankingApp",
-        "projectPath": "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/BankingApp.csproj",
+        "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/BankingApp/BankingApp.csproj",
         "packagesPath": "/home/khulysojohn/.nuget/packages/",
-        "outputPath": "/home/khulysojohn/development/my-work/my-Csharp/4.OPP/BankingApp/obj/",
+        "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/BankingApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/khulysojohn/.nuget/NuGet/NuGet.Config"

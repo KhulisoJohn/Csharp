@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/ConditionLoops.csproj": {}
+    "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/ConditionLoops/ConditionLoops.csproj": {}
   },
   "projects": {
-    "/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/ConditionLoops.csproj": {
+    "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/ConditionLoops/ConditionLoops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/ConditionLoops.csproj",
+        "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/ConditionLoops/ConditionLoops.csproj",
         "projectName": "ConditionLoops",
-        "projectPath": "/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/ConditionLoops.csproj",
+        "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/ConditionLoops/ConditionLoops.csproj",
         "packagesPath": "/home/khulysojohn/.nuget/packages/",
-        "outputPath": "/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ConditionLoops/obj/",
+        "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/ConditionLoops/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/khulysojohn/.nuget/NuGet/NuGet.Config"

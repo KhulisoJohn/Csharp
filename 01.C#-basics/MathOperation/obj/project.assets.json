@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/MathOperation.csproj",
+      "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/MathOperation/MathOperation.csproj",
       "projectName": "MathOperation",
-      "projectPath": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/MathOperation.csproj",
+      "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/MathOperation/MathOperation.csproj",
       "packagesPath": "/home/khulysojohn/.nuget/packages/",
-      "outputPath": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MathOperation/obj/",
+      "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/MathOperation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/khulysojohn/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/StringInterpolation.csproj": {}
+    "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/StringInterpolation/StringInterpolation.csproj": {}
   },
   "projects": {
-    "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/StringInterpolation.csproj": {
+    "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/StringInterpolation/StringInterpolation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/StringInterpolation.csproj",
+        "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/StringInterpolation/StringInterpolation.csproj",
         "projectName": "StringInterpolation",
-        "projectPath": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/StringInterpolation.csproj",
+        "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/StringInterpolation/StringInterpolation.csproj",
         "packagesPath": "/home/khulysojohn/.nuget/packages/",
-        "outputPath": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/obj/",
+        "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/StringInterpolation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/khulysojohn/.nuget/NuGet/NuGet.Config"

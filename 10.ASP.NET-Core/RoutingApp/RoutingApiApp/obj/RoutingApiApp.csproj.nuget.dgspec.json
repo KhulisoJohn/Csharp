@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/khulysojohn/MyWorkspace/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/RoutingApiApp.csproj": {}
+    "/home/khulysojohn/Development/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/RoutingApiApp.csproj": {}
   },
   "projects": {
-    "/home/khulysojohn/MyWorkspace/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/RoutingApiApp.csproj": {
+    "/home/khulysojohn/Development/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/RoutingApiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/khulysojohn/MyWorkspace/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/RoutingApiApp.csproj",
+        "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/RoutingApiApp.csproj",
         "projectName": "RoutingApiApp",
-        "projectPath": "/home/khulysojohn/MyWorkspace/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/RoutingApiApp.csproj",
+        "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/RoutingApiApp.csproj",
         "packagesPath": "/home/khulysojohn/.nuget/packages/",
-        "outputPath": "/home/khulysojohn/MyWorkspace/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/obj/",
+        "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/khulysojohn/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"

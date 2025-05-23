@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyHelloWorld/MyHelloWorld.csproj",
+      "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/MyHelloWorld/MyHelloWorld.csproj",
       "projectName": "MyHelloWorld",
-      "projectPath": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyHelloWorld/MyHelloWorld.csproj",
+      "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/MyHelloWorld/MyHelloWorld.csproj",
       "packagesPath": "/home/khulysojohn/.nuget/packages/",
-      "outputPath": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/MyHelloWorld/obj/",
+      "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/MyHelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/khulysojohn/.nuget/NuGet/NuGet.Config"

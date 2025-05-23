@@ -3,3 +3,8 @@
 /home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Intellisense/obj/Debug/net8.0/Intellisense.AssemblyInfo.cs
 /home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Intellisense/obj/Debug/net8.0/Intellisense.csproj.CoreCompileInputs.cache
 /home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/Intellisense/obj/Debug/net8.0/Intellisense.sourcelink.json
+/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/Intellisense/obj/Debug/net8.0/Intellisense.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/Intellisense/obj/Debug/net8.0/Intellisense.AssemblyInfoInputs.cache
+/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/Intellisense/obj/Debug/net8.0/Intellisense.AssemblyInfo.cs
+/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/Intellisense/obj/Debug/net8.0/Intellisense.csproj.CoreCompileInputs.cache
+/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/Intellisense/obj/Debug/net8.0/Intellisense.sourcelink.json

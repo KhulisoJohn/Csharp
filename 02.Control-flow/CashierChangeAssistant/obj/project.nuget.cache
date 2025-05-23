@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UT3n61wWNZo=",
+  "dgSpecHash": "t/Sl8b5qYtI=",
   "success": true,
-  "projectFilePath": "/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/CashierChangeAssistant/CashierChangeAssistant.csproj",
+  "projectFilePath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/CashierChangeAssistant/CashierChangeAssistant.csproj",
   "expectedPackageFiles": [
     "/home/khulysojohn/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
     "/home/khulysojohn/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",

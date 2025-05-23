@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/Starter.csproj": {}
+    "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/GuidedProject/Starter/Starter.csproj": {}
   },
   "projects": {
-    "/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/Starter.csproj": {
+    "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/GuidedProject/Starter/Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/Starter.csproj",
+        "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/GuidedProject/Starter/Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/Starter.csproj",
+        "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/GuidedProject/Starter/Starter.csproj",
         "packagesPath": "/home/khulysojohn/.nuget/packages/",
-        "outputPath": "/home/khulysojohn/Training/my-Csharp/2.Control-flow/GuidedProject/Starter/obj/",
+        "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/GuidedProject/Starter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/khulysojohn/.nuget/NuGet/NuGet.Config"

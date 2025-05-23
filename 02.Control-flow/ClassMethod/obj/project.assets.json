@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ClassMethod/ClassMethod.csproj",
+      "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/ClassMethod/ClassMethod.csproj",
       "projectName": "ClassMethod",
-      "projectPath": "/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ClassMethod/ClassMethod.csproj",
+      "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/ClassMethod/ClassMethod.csproj",
       "packagesPath": "/home/khulysojohn/.nuget/packages/",
-      "outputPath": "/home/khulysojohn/development/my-work/my-Csharp/2.Control-flow/ClassMethod/obj/",
+      "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/ClassMethod/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/khulysojohn/.nuget/NuGet/NuGet.Config"

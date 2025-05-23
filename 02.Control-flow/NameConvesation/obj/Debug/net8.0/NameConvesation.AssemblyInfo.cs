@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NameConvesation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66e815314379589c97050608c7b3dcc1637f30ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d464e15d5609922adda1539df2c5565f0f0c7127")]
 [assembly: System.Reflection.AssemblyProductAttribute("NameConvesation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NameConvesation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

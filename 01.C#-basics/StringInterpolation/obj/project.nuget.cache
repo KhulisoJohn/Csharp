@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mIVS9tiTNAo=",
+  "dgSpecHash": "zk0YAzKUU98=",
   "success": true,
-  "projectFilePath": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/StringInterpolation/StringInterpolation.csproj",
+  "projectFilePath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/StringInterpolation/StringInterpolation.csproj",
   "expectedPackageFiles": [
     "/home/khulysojohn/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
     "/home/khulysojohn/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",

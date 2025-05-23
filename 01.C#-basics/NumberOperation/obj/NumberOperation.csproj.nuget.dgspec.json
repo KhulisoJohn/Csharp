@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/NumberOperation.csproj": {}
+    "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/NumberOperation/NumberOperation.csproj": {}
   },
   "projects": {
-    "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/NumberOperation.csproj": {
+    "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/NumberOperation/NumberOperation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/NumberOperation.csproj",
+        "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/NumberOperation/NumberOperation.csproj",
         "projectName": "NumberOperation",
-        "projectPath": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/NumberOperation.csproj",
+        "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/NumberOperation/NumberOperation.csproj",
         "packagesPath": "/home/khulysojohn/.nuget/packages/",
-        "outputPath": "/home/khulysojohn/development/my-work/my-Csharp/1.C#-basics/NumberOperation/obj/",
+        "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/NumberOperation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/khulysojohn/.nuget/NuGet/NuGet.Config"
