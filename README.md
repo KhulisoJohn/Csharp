@@ -20,7 +20,7 @@ Csharp-Repository/
 │   ├── Conditional statements (if, switch)
 │   ├── Looping constructs (for, while, do-while, foreach)
 │
-│-- Chapter 3: Methods and Functions
+│-- Chapter 3: Methods and Function
 │   ├── Defining and calling methods
 │   ├── Method parameters and return types
 │   ├── Recursion in C#
