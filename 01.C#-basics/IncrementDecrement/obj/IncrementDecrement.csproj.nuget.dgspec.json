@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/IncrementDecrement/IncrementDecrement.csproj": {}
+    "/home/khulysojohn/Development/Csharp/01.C#-basics/IncrementDecrement/IncrementDecrement.csproj": {}
   },
   "projects": {
-    "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/IncrementDecrement/IncrementDecrement.csproj": {
+    "/home/khulysojohn/Development/Csharp/01.C#-basics/IncrementDecrement/IncrementDecrement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/IncrementDecrement/IncrementDecrement.csproj",
+        "projectUniqueName": "/home/khulysojohn/Development/Csharp/01.C#-basics/IncrementDecrement/IncrementDecrement.csproj",
         "projectName": "IncrementDecrement",
-        "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/IncrementDecrement/IncrementDecrement.csproj",
+        "projectPath": "/home/khulysojohn/Development/Csharp/01.C#-basics/IncrementDecrement/IncrementDecrement.csproj",
         "packagesPath": "/home/khulysojohn/.nuget/packages/",
-        "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/IncrementDecrement/obj/",
+        "outputPath": "/home/khulysojohn/Development/Csharp/01.C#-basics/IncrementDecrement/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/khulysojohn/.nuget/NuGet/NuGet.Config"
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/RuntimeIdentifierGraph.json"
         }
       }
     }

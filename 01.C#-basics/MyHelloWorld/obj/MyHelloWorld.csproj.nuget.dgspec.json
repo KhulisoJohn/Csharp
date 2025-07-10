@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/MyHelloWorld/MyHelloWorld.csproj": {}
+    "/home/khulysojohn/Development/Csharp/01.C#-basics/MyHelloWorld/MyHelloWorld.csproj": {}
   },
   "projects": {
-    "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/MyHelloWorld/MyHelloWorld.csproj": {
+    "/home/khulysojohn/Development/Csharp/01.C#-basics/MyHelloWorld/MyHelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/MyHelloWorld/MyHelloWorld.csproj",
+        "projectUniqueName": "/home/khulysojohn/Development/Csharp/01.C#-basics/MyHelloWorld/MyHelloWorld.csproj",
         "projectName": "MyHelloWorld",
-        "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/MyHelloWorld/MyHelloWorld.csproj",
+        "projectPath": "/home/khulysojohn/Development/Csharp/01.C#-basics/MyHelloWorld/MyHelloWorld.csproj",
         "packagesPath": "/home/khulysojohn/.nuget/packages/",
-        "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/MyHelloWorld/obj/",
+        "outputPath": "/home/khulysojohn/Development/Csharp/01.C#-basics/MyHelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/khulysojohn/.nuget/NuGet/NuGet.Config"
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/RuntimeIdentifierGraph.json"
         }
       }
     }

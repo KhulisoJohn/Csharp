@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/ForEach/ForEach.csproj",
+      "projectUniqueName": "/home/khulysojohn/Development/Csharp/02.Control-flow/ForEach/ForEach.csproj",
       "projectName": "ForEach",
-      "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/ForEach/ForEach.csproj",
+      "projectPath": "/home/khulysojohn/Development/Csharp/02.Control-flow/ForEach/ForEach.csproj",
       "packagesPath": "/home/khulysojohn/.nuget/packages/",
-      "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/ForEach/obj/",
+      "outputPath": "/home/khulysojohn/Development/Csharp/02.Control-flow/ForEach/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/khulysojohn/.nuget/NuGet/NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

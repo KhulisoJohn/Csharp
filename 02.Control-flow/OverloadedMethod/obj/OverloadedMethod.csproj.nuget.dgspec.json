@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/OverloadedMethod/OverloadedMethod.csproj": {}
+    "/home/khulysojohn/Development/Csharp/02.Control-flow/OverloadedMethod/OverloadedMethod.csproj": {}
   },
   "projects": {
-    "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/OverloadedMethod/OverloadedMethod.csproj": {
+    "/home/khulysojohn/Development/Csharp/02.Control-flow/OverloadedMethod/OverloadedMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/OverloadedMethod/OverloadedMethod.csproj",
+        "projectUniqueName": "/home/khulysojohn/Development/Csharp/02.Control-flow/OverloadedMethod/OverloadedMethod.csproj",
         "projectName": "OverloadedMethod",
-        "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/OverloadedMethod/OverloadedMethod.csproj",
+        "projectPath": "/home/khulysojohn/Development/Csharp/02.Control-flow/OverloadedMethod/OverloadedMethod.csproj",
         "packagesPath": "/home/khulysojohn/.nuget/packages/",
-        "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/02.Control-flow/OverloadedMethod/obj/",
+        "outputPath": "/home/khulysojohn/Development/Csharp/02.Control-flow/OverloadedMethod/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/khulysojohn/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QsLrfX5H3Cc=",
+  "dgSpecHash": "LrTfoKS2Tf0=",
   "success": true,
-  "projectFilePath": "/home/khulysojohn/Development/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/MiddlewareApiApp/MiddlewareApiApp.csproj",
+  "projectFilePath": "/home/khulysojohn/Development/Csharp/10.ASP.NET-Core/RoutingApp/MiddlewareApiApp/MiddlewareApiApp.csproj",
   "expectedPackageFiles": [
     "/home/khulysojohn/.nuget/packages/microsoft.aspnetcore.openapi/8.0.16/microsoft.aspnetcore.openapi.8.0.16.nupkg.sha512",
     "/home/khulysojohn/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

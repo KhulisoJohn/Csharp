@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
+      "projectUniqueName": "/home/khulysojohn/Development/Csharp/04.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
       "projectName": "InheritancePolymorphism",
-      "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
+      "projectPath": "/home/khulysojohn/Development/Csharp/04.OPP/InheritancePolymorphism/InheritancePolymorphism.csproj",
       "packagesPath": "/home/khulysojohn/.nuget/packages/",
-      "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/04.OPP/InheritancePolymorphism/obj/",
+      "outputPath": "/home/khulysojohn/Development/Csharp/04.OPP/InheritancePolymorphism/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/khulysojohn/.nuget/NuGet/NuGet.Config"
@@ -78,7 +78,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/RuntimeIdentifierGraph.json"
       }
     }
   }

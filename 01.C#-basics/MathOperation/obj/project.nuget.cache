@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7tVnZyURleo=",
+  "dgSpecHash": "Kol0h9FYte4=",
   "success": true,
-  "projectFilePath": "/home/khulysojohn/Development/Training/my-Csharp/01.C#-basics/MathOperation/MathOperation.csproj",
+  "projectFilePath": "/home/khulysojohn/Development/Csharp/01.C#-basics/MathOperation/MathOperation.csproj",
   "expectedPackageFiles": [
     "/home/khulysojohn/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
     "/home/khulysojohn/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",

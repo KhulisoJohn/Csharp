@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/khulysojohn/Development/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/RoutingApiApp.csproj",
+      "projectUniqueName": "/home/khulysojohn/Development/Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/RoutingApiApp.csproj",
       "projectName": "RoutingApiApp",
-      "projectPath": "/home/khulysojohn/Development/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/RoutingApiApp.csproj",
+      "projectPath": "/home/khulysojohn/Development/Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/RoutingApiApp.csproj",
       "packagesPath": "/home/khulysojohn/.nuget/packages/",
-      "outputPath": "/home/khulysojohn/Development/Training/my-Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/obj/",
+      "outputPath": "/home/khulysojohn/Development/Csharp/10.ASP.NET-Core/RoutingApp/RoutingApiApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/khulysojohn/.nuget/NuGet/NuGet.Config"
@@ -551,7 +551,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
