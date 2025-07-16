@@ -1,6 +1,0 @@
-@MiddlewareApiApp_HostAddress = http://localhost:5075
-
-GET {{MiddlewareApiApp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
