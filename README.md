@@ -50,10 +50,7 @@ Csharp-Repository/
 │-- Chapter 9: Asynchronous Programming
 │   ├── async and await keywords
 │   ├── Task-based programming
-│
-│-- Chapter 10: .NET Core and Framework
-│   ├── Overview of .NET
-│   ├── Differences between .NET Framework and .NET Core
+
 ```
 
 ## How to Use This Repository
