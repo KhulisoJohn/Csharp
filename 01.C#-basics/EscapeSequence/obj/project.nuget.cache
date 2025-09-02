@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5okIr8yvoQw=",
+  "dgSpecHash": "c2bNApcdATU=",
   "success": true,
   "projectFilePath": "/home/khulysojohn/Development/Csharp/01.C#-basics/EscapeSequence/EscapeSequence.csproj",
-  "expectedPackageFiles": [
-    "/home/khulysojohn/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "/home/khulysojohn/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "/home/khulysojohn/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
