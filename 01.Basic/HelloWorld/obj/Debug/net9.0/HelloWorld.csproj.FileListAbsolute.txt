@@ -1,0 +1,15 @@
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/bin/Debug/net9.0/HelloWorld
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/obj/Debug/net9.0/HelloWorld.sourcelink.json
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/home/khulysojohn/Development/Csharp/01.Basic/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
