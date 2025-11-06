@@ -1,0 +1,15 @@
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/bin/Debug/net9.0/LiteralVarable
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/bin/Debug/net9.0/LiteralVarable.deps.json
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/bin/Debug/net9.0/LiteralVarable.runtimeconfig.json
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/bin/Debug/net9.0/LiteralVarable.dll
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/bin/Debug/net9.0/LiteralVarable.pdb
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/obj/Debug/net9.0/LiteralVarable.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/obj/Debug/net9.0/LiteralVarable.AssemblyInfoInputs.cache
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/obj/Debug/net9.0/LiteralVarable.AssemblyInfo.cs
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/obj/Debug/net9.0/LiteralVarable.csproj.CoreCompileInputs.cache
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/obj/Debug/net9.0/LiteralVarable.sourcelink.json
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/obj/Debug/net9.0/LiteralVarable.dll
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/obj/Debug/net9.0/refint/LiteralVarable.dll
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/obj/Debug/net9.0/LiteralVarable.pdb
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/obj/Debug/net9.0/LiteralVarable.genruntimeconfig.cache
+/home/khulysojohn/Development/Csharp/01.Basic/LiteralVarable/obj/Debug/net9.0/ref/LiteralVarable.dll
