@@ -1,0 +1,15 @@
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/bin/Debug/net9.0/Class-Methods
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/bin/Debug/net9.0/Class-Methods.deps.json
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/bin/Debug/net9.0/Class-Methods.runtimeconfig.json
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/bin/Debug/net9.0/Class-Methods.dll
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/bin/Debug/net9.0/Class-Methods.pdb
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/obj/Debug/net9.0/Class-Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/obj/Debug/net9.0/Class-Methods.AssemblyInfoInputs.cache
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/obj/Debug/net9.0/Class-Methods.AssemblyInfo.cs
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/obj/Debug/net9.0/Class-Methods.csproj.CoreCompileInputs.cache
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/obj/Debug/net9.0/Class-Methods.sourcelink.json
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/obj/Debug/net9.0/Class-Methods.dll
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/obj/Debug/net9.0/refint/Class-Methods.dll
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/obj/Debug/net9.0/Class-Methods.pdb
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/obj/Debug/net9.0/Class-Methods.genruntimeconfig.cache
+/home/khulysojohn/Development/Csharp/01.Basic/Class-Methods/obj/Debug/net9.0/ref/Class-Methods.dll
