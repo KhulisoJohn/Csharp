@@ -1,0 +1,15 @@
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/bin/Debug/net9.0/TypesApp
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/bin/Debug/net9.0/TypesApp.deps.json
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/bin/Debug/net9.0/TypesApp.runtimeconfig.json
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/bin/Debug/net9.0/TypesApp.dll
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/bin/Debug/net9.0/TypesApp.pdb
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/obj/Debug/net9.0/TypesApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/obj/Debug/net9.0/TypesApp.AssemblyInfoInputs.cache
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/obj/Debug/net9.0/TypesApp.AssemblyInfo.cs
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/obj/Debug/net9.0/TypesApp.csproj.CoreCompileInputs.cache
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/obj/Debug/net9.0/TypesApp.sourcelink.json
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/obj/Debug/net9.0/TypesApp.dll
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/obj/Debug/net9.0/refint/TypesApp.dll
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/obj/Debug/net9.0/TypesApp.pdb
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/obj/Debug/net9.0/TypesApp.genruntimeconfig.cache
+/home/khulysojohn/Development/Csharp/01.Basic/TypesApp/obj/Debug/net9.0/ref/TypesApp.dll
