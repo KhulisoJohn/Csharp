@@ -1,0 +1,15 @@
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/bin/Debug/net9.0/BoolearnExpression
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/bin/Debug/net9.0/BoolearnExpression.deps.json
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/bin/Debug/net9.0/BoolearnExpression.runtimeconfig.json
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/bin/Debug/net9.0/BoolearnExpression.dll
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/bin/Debug/net9.0/BoolearnExpression.pdb
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/obj/Debug/net9.0/BoolearnExpression.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/obj/Debug/net9.0/BoolearnExpression.AssemblyInfoInputs.cache
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/obj/Debug/net9.0/BoolearnExpression.AssemblyInfo.cs
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/obj/Debug/net9.0/BoolearnExpression.csproj.CoreCompileInputs.cache
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/obj/Debug/net9.0/BoolearnExpression.sourcelink.json
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/obj/Debug/net9.0/BoolearnExpression.dll
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/obj/Debug/net9.0/refint/BoolearnExpression.dll
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/obj/Debug/net9.0/BoolearnExpression.pdb
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/obj/Debug/net9.0/BoolearnExpression.genruntimeconfig.cache
+/home/khulysojohn/Development/Csharp/02.Control-flow/BoolearnExpression/obj/Debug/net9.0/ref/BoolearnExpression.dll
