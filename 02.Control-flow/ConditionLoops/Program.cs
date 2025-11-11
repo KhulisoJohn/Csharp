@@ -21,6 +21,6 @@ namespace ControlLoops
                 Console.WriteLine(i);
             }
             Console.WriteLine($"The sum is equal to: {sum}");
-    }
- }    
+        }
+    }    
 }
